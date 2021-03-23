@@ -2,10 +2,10 @@
 
 🌱 I’m currently learning
 
-💻 Networking and cloud computing.
-💻 Operating Systems, Docking and Unix shell scripting.
-💻 JavaScript and Spring for backend development with Java.
-💻 Databases and sql.
+* 💻 Networking and cloud computing.
+* 💻 Operating Systems, Docking and Unix shell scripting.
+* 💻 JavaScript and Spring for backend development with Java.
+* 💻 Databases and sql.
 <!--
 **Mohamedharate/mohamedharate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

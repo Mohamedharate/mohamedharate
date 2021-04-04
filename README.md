@@ -7,7 +7,7 @@
 * 💻 JavaScript and Spring for backend development with Java.
 * 💻 Databases and sql.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mohamedharate&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **Mohamedharate/mohamedharate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

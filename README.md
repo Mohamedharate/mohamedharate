@@ -1,6 +1,6 @@
 # Hi there, I'am Mohamed! 👋
 
-🌱 I’m currently learning
+###🌱 I’m currently learning
 
 * 💻 Networking and cloud computing.
 * 💻 Operating Systems, Docking and Unix shell scripting.

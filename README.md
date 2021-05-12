@@ -23,3 +23,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 👏 Get in touch! 👏
+- 📫 Reach me [by mail][mail].
+- 🤝 Connect on [LinkedIn][linkedin].
+
+
+[linkedin]: https://www.linkedin.com/in/mohamedharate
+[mail]: mailto:haratemo@gmail.com?subject=[GitHub]%20Source%20Han%20Sans

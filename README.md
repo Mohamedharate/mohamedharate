@@ -1,13 +1,10 @@
 # Hi there, I'm Mohamed! 👋
 
-### 🌱 I’m currently learning
+### 🌱 I’m currently learning about
 
-* 💻 Networking and cloud computing.
-* 💻 Operating Systems, Docking and Unix shell scripting.
-* 💻 JavaScript and Spring for backend development with Java.
-* 💻 Databases and sql.
-
-
+* 💻 Computer security.
+* 💻 Web application using .Net Core and Angular.
+* 💻 Mobile applications using React Native.
 
 
 

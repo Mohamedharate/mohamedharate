@@ -1,12 +1,5 @@
 # Hi there, I'm Mohamed! 👋
 
-### 🌱 I’m currently learning about
-
-* 💻 Computer security.
-* 💻 Web application using .Net Core and Angular.
-* 💻 Mobile applications using React Native.
-
-
 
 <br><br>
 </p>

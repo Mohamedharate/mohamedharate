@@ -1,35 +1,105 @@
-# Hi there, I'm Mohamed! 👋
+# Hi, I'm Mohamed 👋
 
+Senior Software Developer & IT Consultant based in Oslo, Norway 🇳🇴  
+Currently working at **Decisive AS**, building robust and scalable systems.
 
-<br><br>
+---
+
+## 🧠 Professional Summary
+
+I specialize in backend engineering with a strong focus on **Domain-Driven Design (DDD)** and building maintainable, high-quality systems in complex domains.
+
+With experience in consulting, I work closely with stakeholders to translate business needs into reliable technical solutions — emphasizing clean architecture, scalability, and long-term sustainability.
+
+---
+
+## 🛠️ Core Tech Stack
+
+### 💻 Languages & Frameworks
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamedharate&show_icons=true&theme=radical&count_private=true)
+### 🧱 Architecture & Practices
+- Domain-Driven Design (DDD)  
+- Clean Architecture  
+- RESTful APIs  
+- Microservices & Distributed Systems  
+
+---
+
+### 🗄️ Databases
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle"/>
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
+</p>
+
+---
+
+### 🔄 CI/CD & GitOps
+<p>
+  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/flux/icon/color/flux-icon-color.svg" width="40" height="40" alt="Flux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker Compose"/>
+</p>
+
+---
+
+### 🧪 Testing
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" width="40" height="40" alt="JUnit"/>
+</p>
+
+---
+
+### 🤖 AI & Data (Currently Exploring)
+<p>
+  <img src="https://cdn.simpleicons.org/anthropic" width="40" height="40" alt="Claude AI"/>
+</p>
+
+- Applying AI for data analysis and decision support  
+- Leveraging AI tools to improve development workflows  
+
+---
+
+## 📈 GitHub Stats
+
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamedharate&show_icons=true&theme=radical&count_private=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mohamedharate&theme=dark)](https://git.io/streak-stats)
 
-**Mohamedharate/mohamedharate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📍 Current Focus
 
-- 🔭 I’m currently working on ...
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Designing scalable backend systems using **DDD principles**  
+- Improving observability and reliability in cloud environments  
+- Exploring **AI-driven data analysis and decision support**  
+- Strengthening engineering practices and developer experience  
 
-### 👏 Get in touch! 👏
-- 📫 Reach me [by mail][mail].
-- 🤝 Connect on [LinkedIn][linkedin].
+---
 
+## 🤝 Connect
 
-[linkedin]: https://www.linkedin.com/in/mohamedharate
-[mail]: mailto:haratemo@gmail.com?subject=[GitHub]%20Source%20Han%20Sans
+- 📫 Email: haratemo@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/mohamedharate  
+
+---
+
+## ⚡ Personal Note
+
+I enjoy working at the intersection of **business and technology**, where thoughtful design and solid engineering create real impact.
+
+---
